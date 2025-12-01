@@ -133,4 +133,5 @@ namespace КТ3
             Console.WriteLine($"Телефон: {Brand}, заряд: {Battery}%");
         }
     }
+
 }
