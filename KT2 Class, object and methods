@@ -1,6 +1,7 @@
 ﻿using System;
 
-namespace КТ3
+namespace КТ2
+
 
 {
     
@@ -135,3 +136,4 @@ namespace КТ3
     }
 
 }
+
